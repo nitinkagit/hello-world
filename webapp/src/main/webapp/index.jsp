@@ -33,7 +33,7 @@
 
    <h1> Thankyou, nitin </h1>
    <h1> this is your second commit </h1>
-   <h2>this is my 3rd commit </h3>
+   <h2>this is my current commit </h2>
 
   
 </form>
